@@ -7,6 +7,7 @@ To install scrollUp with Bower:
 
 ```bash
 bower install scrollup
+taha
 ```
 
 ## How to use
